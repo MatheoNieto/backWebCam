@@ -1,0 +1,13 @@
+.env
+node_modules
+.eslintrc
+.eslintignore
+package-lock.json
+data
+**.ppk
+**.pem
+dist
+yarn-error.log
+yarn.lock
+dist
+coverage
